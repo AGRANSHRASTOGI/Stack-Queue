@@ -1,7 +1,3 @@
-package com.LLSQ;
-
-// Java program to implement Queue using
-// two stacks with costly enQueue()
 import java.util.*;
 public class QueueUsingStack
 {
