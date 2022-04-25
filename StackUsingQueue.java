@@ -1,7 +1,3 @@
-package com.LLSQ;
-
-/* Java Program to implement a stack using
-two queue */
 import java.util.*;
 public class StackUsingQueue
 {
